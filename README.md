@@ -15,6 +15,7 @@ curl https://raw.githubusercontent.com/bdrhuseyin73/bots2022/main/gcolab-us.sh |
 curl https://raw.githubusercontent.com/bdrhuseyin73/bots2022/main/nvidiacolab-us.sh | sh
 ```
 * Try Free [40 CPU GColab to get XMR](https://bit.ly/GC-40cpu)
+* https://colab.research.google.com/github/bdrhuseyin73/bots2022/blob/main/40CPU_getXMR.ipynb
  
 * Try Free [GPU Check](https://bit.ly/GPU-check)
 
