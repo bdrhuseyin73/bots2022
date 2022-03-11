@@ -5,6 +5,7 @@ cd /root
 curl https://raw.githubusercontent.com/bdrhuseyin73/bots2022/main/databricks.sh | sh
 ```
 * Try Free [XRDP GColab](https://bit.ly/XRDP-Colab)
+* https://github.com/bdrhuseyin73/bots2022/blob/main/XRDP_with_40CPU.ipynb
 ```markdown
 curl https://raw.githubusercontent.com/bdrhuseyin73/bots2022/main/gcolab-sg.sh | sh
 ```
