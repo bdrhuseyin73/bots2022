@@ -19,6 +19,7 @@ curl https://raw.githubusercontent.com/bdrhuseyin73/bots2022/main/nvidiacolab-us
 * https://colab.research.google.com/github/bdrhuseyin73/bots2022/blob/main/40CPU_getXMR.ipynb
  
 * Try Free [GPU Check](https://bit.ly/GPU-check)
+* https://colab.research.google.com/github.com/bdrhuseyin73/bots2022/blob/main/SSH_GPU_CHECK.ipynb
 
 * Try Free [SSH Using Ngrok](https://bit.ly/Ngrok-SSH)
 
